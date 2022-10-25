@@ -13,12 +13,14 @@ Project Group Members:
 
 * Group Member Name 1 (Student ID #, email)
 * Group Member Name 2 (Student ID #, email)
+* Group Member Name 3 (Student ID #, email)
+* Group Member Name 4 (Student ID #, email)
 
 Project Videos:
 
 * Project Demo: YouTube URL
 * Project Trailer: YouTube URL
-* Project  Presentation: YouTube URL
+* Project Presentation: YouTube URL
 
 Project Setup / Installation:
 
