@@ -1,4 +1,4 @@
-# COMP4303_Project_Name_Here
+# COMP4300_Project_Name_Here
 
 Instructions:
 
